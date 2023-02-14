@@ -1,5 +1,5 @@
+<img align="center" width="1000" height="450" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 <h1 align="center">Hi 👋, I'm Harsh Kumar Raj</h1>
-<img align="right" width="250" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e476klaa84n4zn20547hvfcaix9xa0b7emyd9kdjeql&rid=giphy.gif&ct=g">
 <h3 align="center">A passionate web application developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshkumarraj&label=Profile%20views&color=0e75b6&style=flat" alt="harshkumarraj" /> </p>
