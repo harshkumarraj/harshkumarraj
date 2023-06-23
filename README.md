@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Harsh Kumar Raj</h1>
 <h3 align="center">A passionate web application developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal470&label=Profile%20views&color=0e75b6&style=flat" alt="vishal470" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishal470" alt="vishal470" /></a> </p>
 - 🔭 I’m currently working on [Benepay](https://www.benepay.io/)
 
 - 🌱 I’m currently learning **ReactJS, DevOps, AWS, Cyber Security and SQL**
