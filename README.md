@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Kumar Raj</h1>
 <h3 align="center">A passionate web application developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshkumarraj&label=Profile%20views&color=0e75b6&style=flat" alt="harshkumarraj" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=harshkumarraj&label=Profile%20views&color=0e75b6&style=flat](https://media.licdn.com/dms/image/D4D16AQHlCtiBWZcSQg/profile-displaybackgroundimage-shrink_350_1400/0/1685548884553?e=1692835200&v=beta&t=SMmQ2REVRRcfTLianAKE95FA-6RWPCiZCXPu94Dd31g)" alt="harshkumarraj" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshkumarraj" alt="harshkumarraj" /></a> </p>
 
