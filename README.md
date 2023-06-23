@@ -1,4 +1,4 @@
-<img align="center" width="1000" height="450" src="https://i.ibb.co/XSCVwbH/1685548884553.jpg">
+<img align="center" width="1000" height="300" src="https://i.ibb.co/XSCVwbH/1685548884553.jpg">
 <h1 align="center">Hi 👋, I'm Harsh Kumar Raj</h1>
 <h3 align="center">A passionate web application developer from India</h3>
 
